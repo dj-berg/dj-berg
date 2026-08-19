@@ -97,7 +97,6 @@ Problem Solving • Communication • Teamwork • Collaboration • Adaptabilit
 
 ## 🔗 Connect With Me
 
-- [LinkedIn](YOUR-LINKEDIN-LINK)
 - [Portfolio Website](https://danieljberg.com)
-- [GitHub](https://github.com/YOUR-GITHUB-USERNAME)
-- [Email](mailto:YOUR-EMAIL-ADDRESS)
+- [LinkedIn](https://www.linkedin.com/in/danieljberg)
+- [Email](mailto:danielberg313@gmail.com)
