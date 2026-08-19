@@ -1,109 +1,54 @@
-# Hi, I'm Daniel Berg 👋
+<h1>Hi, I'm Daniel! 👋 <br/>
+<a href="https://www.linkedin.com/in/danielberg">Computer Science Student</a>,
+<a href="https://danieljberg.com">Applications Engineer Intern</a>,
+<a href="https://danieljberg.com">IT & Cybersecurity</a>
+</h1>
 
-### Computer Science (Cybersecurity) Student | Applications Engineer Intern @ UoPX | Software Development, IT, Cybersecurity, Cloud & Artificial Intelligence
+<h2>🖥️ Information Technology Projects:</h2>
 
-I'm an Arizona State University Computer Science student pursuing a concentration in Cybersecurity. I currently work as an Applications Engineer Intern at the University of Phoenix, contributing to enterprise web applications using Java, JavaScript, React, AWS, Git, and Agile development practices.
-
-I am also building hands-on experience in IT support, systems administration, networking, cloud computing, troubleshooting, cybersecurity, and artificial intelligence tools.
-
----
-
-## 🖥️ Information Technology Projects
-
-- **osTicket — Help Desk Ticketing System**
+- <b>osTicket — Help Desk Ticketing System</b>
   - [osTicket: Prerequisites and Installation](YOUR-REPOSITORY-LINK)
   - [osTicket: Post-Installation Configuration](YOUR-REPOSITORY-LINK)
   - [osTicket: Ticket Lifecycle Examples](YOUR-REPOSITORY-LINK)
 
-- **Microsoft Azure**
+- <b>Microsoft Azure</b>
   - [Configuring On-Premises Active Directory Within Azure VMs](YOUR-REPOSITORY-LINK)
   - [Network Security Groups and Inspecting Network Protocols](YOUR-REPOSITORY-LINK)
 
----
+<h2>💻 Software Engineering Projects:</h2>
 
-## 💻 Software Engineering Projects
+- <b>University of Phoenix Feature Flag Platform</b>
+  - [Enterprise Feature Flag Project](YOUR-REPOSITORY-LINK)
 
-- [University of Phoenix Feature Flag Platform](YOUR-REPOSITORY-LINK)
-- [Personal Portfolio Website](YOUR-REPOSITORY-LINK)
-- [LEGO Autonomous Robot](YOUR-REPOSITORY-LINK)
+- <b>Personal Portfolio Website</b>
+  - [Daniel J. Berg Portfolio Website](YOUR-REPOSITORY-LINK)
 
----
+- <b>LEGO Autonomous Robot</b>
+  - [Autonomous LEGO Robot Project](YOUR-REPOSITORY-LINK)
 
-## 🛠️ Technical Skills
+<h2>🛠️ Technical Skills:</h2>
 
-**Information Technology:** Windows • Active Directory • DNS • DHCP • TCP/IP • Microsoft 365 • PowerShell • Hardware and Software Troubleshooting
+- <b>Information Technology:</b> Windows, Active Directory, DNS, DHCP, TCP/IP, Microsoft 365, PowerShell, Hardware and Software Troubleshooting
+- <b>Cloud & Infrastructure:</b> Microsoft Azure, AWS, Virtual Machines, VMware, Network Security Groups
+- <b>Artificial Intelligence:</b> ChatGPT, Claude, GitHub Copilot, OpenCode Agents
+- <b>Software Development:</b> Java, Python, JavaScript, React, HTML, CSS, SQL, REST APIs, Git, GitHub, Bitbucket
+- <b>Cybersecurity:</b> Linux, Network Security, IAM, Secure Authentication, Wireshark, Nmap, Encryption and Hashing
 
-**Cloud & Infrastructure:** Microsoft Azure • AWS • Virtual Machines • VMware • Network Security Groups
+<h2>🤳 Connect With Me:</h2>
 
-**Artificial Intelligence:** ChatGPT • Claude • GitHub Copilot • OpenCode Agents
+[<img align="left" alt="Daniel Berg | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlechrome.svg" />][website]
+[<img align="left" alt="Daniel Berg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Daniel Berg | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Daniel Berg | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Daniel Berg | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" />][x]
 
-**Software Development:** Java • Python • JavaScript • React • HTML • CSS • SQL • REST APIs • Git • GitHub • Bitbucket
+<br/><br/>
 
-**Cybersecurity:** Linux • Network Security • IAM • Secure Authentication • Wireshark • Nmap • Encryption and Hashing
+📧 danielberg313@gmail.com  
+☎ (602) 715-8964
 
----
-
-## 🔗 Connect With Me
-
-<p>
-  <a href="https://danieljberg.com">
-    <img
-      src="https://img.icons8.com/color/48/google-chrome.png"
-      width="30"
-      height="30"
-      alt="Website"
-    >
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://www.linkedin.com/in/danielberg">
-    <img
-      src="https://img.icons8.com/color/48/linkedin.png"
-      width="30"
-      height="30"
-      alt="LinkedIn"
-    >
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="YOUR-FACEBOOK-LINK">
-    <img
-      src="https://img.icons8.com/color/48/facebook-new.png"
-      width="30"
-      height="30"
-      alt="Facebook"
-    >
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="YOUR-INSTAGRAM-LINK">
-    <img
-      src="https://img.icons8.com/color/48/instagram-new.png"
-      width="30"
-      height="30"
-      alt="Instagram"
-    >
-  </a>
-  &nbsp;&nbsp;
-
-  <a href="https://x.com/DJBerg1306">
-    <img
-      src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx.png"
-      width="30"
-      height="30"
-      alt="X"
-    >
-  </a>
-</p>
-
-<p>
-  <img
-    src="https://img.icons8.com/color/48/gmail-new.png"
-    width="26"
-    height="26"
-    alt="Email"
-  >
-  &nbsp; danielberg313@gmail.com
-  <br>
-  ☎ &nbsp; (602) 715-8964
-</p>
+[website]: https://danieljberg.com
+[linkedin]: https://www.linkedin.com/in/danielberg
+[facebook]: YOUR-FACEBOOK-LINK
+[instagram]: YOUR-INSTAGRAM-LINK
+[x]: https://x.com/DJBerg1306
