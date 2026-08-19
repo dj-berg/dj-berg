@@ -46,26 +46,26 @@ I am also building hands-on experience in IT support, systems administration, ne
 <p>
   <a href="https://danieljberg.com">
     <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlechrome.svg"
-      width="30"
-      height="30"
+      src="https://cdn.simpleicons.org/googlechrome/4285F4"
+      width="32"
+      height="32"
       alt="Portfolio Website"
     >
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/danieljberg">
     <img
-      src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg"
-      width="30"
-      height="30"
+      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      width="32"
+      height="32"
       alt="LinkedIn"
     >
   </a>
   &nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/gmail.svg"
-    width="30"
-    height="30"
+    src="https://cdn.simpleicons.org/gmail/EA4335"
+    width="32"
+    height="32"
     alt="Gmail"
   >
   &nbsp;&nbsp;
