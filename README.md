@@ -48,9 +48,9 @@ I am also building hands-on experience in IT support, systems administration, ne
 <p>
   <a href="https://danieljberg.com">
     <img
-      src="https://cdn.simpleicons.org/googlechrome/4285F4"
-      width="28"
-      height="28"
+      src="https://img.icons8.com/color/48/google-chrome.png"
+      width="30"
+      height="30"
       alt="Website"
     >
   </a>
@@ -58,9 +58,9 @@ I am also building hands-on experience in IT support, systems administration, ne
 
   <a href="https://www.linkedin.com/in/danielberg">
     <img
-      src="https://cdn.simpleicons.org/linkedin/0A66C2"
-      width="28"
-      height="28"
+      src="https://img.icons8.com/color/48/linkedin.png"
+      width="30"
+      height="30"
       alt="LinkedIn"
     >
   </a>
@@ -68,9 +68,9 @@ I am also building hands-on experience in IT support, systems administration, ne
 
   <a href="YOUR-FACEBOOK-LINK">
     <img
-      src="https://cdn.simpleicons.org/facebook/1877F2"
-      width="28"
-      height="28"
+      src="https://img.icons8.com/color/48/facebook-new.png"
+      width="30"
+      height="30"
       alt="Facebook"
     >
   </a>
@@ -78,9 +78,9 @@ I am also building hands-on experience in IT support, systems administration, ne
 
   <a href="YOUR-INSTAGRAM-LINK">
     <img
-      src="https://cdn.simpleicons.org/instagram/E4405F"
-      width="28"
-      height="28"
+      src="https://img.icons8.com/color/48/instagram-new.png"
+      width="30"
+      height="30"
       alt="Instagram"
     >
   </a>
@@ -88,9 +88,9 @@ I am also building hands-on experience in IT support, systems administration, ne
 
   <a href="https://x.com/DJBerg1306">
     <img
-      src="https://cdn.simpleicons.org/x/FFFFFF"
-      width="28"
-      height="28"
+      src="https://img.icons8.com/ios-filled/50/FFFFFF/twitterx.png"
+      width="30"
+      height="30"
       alt="X"
     >
   </a>
@@ -98,9 +98,9 @@ I am also building hands-on experience in IT support, systems administration, ne
 
 <p>
   <img
-    src="https://cdn.simpleicons.org/gmail/EA4335"
-    width="24"
-    height="24"
+    src="https://img.icons8.com/color/48/gmail-new.png"
+    width="26"
+    height="26"
     alt="Email"
   >
   &nbsp; danielberg313@gmail.com
