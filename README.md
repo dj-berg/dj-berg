@@ -105,5 +105,5 @@ I am also building hands-on experience in IT support, systems administration, ne
   >
   &nbsp; danielberg313@gmail.com
   <br>
-  ☎️ &nbsp; 602-715-8964
+  ☎ &nbsp; (602) 715-8964
 </p>
