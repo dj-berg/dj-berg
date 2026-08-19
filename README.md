@@ -1,8 +1,6 @@
-<h1>Hi, I'm Daniel! 👋 <br/>
-<a href="https://www.linkedin.com/in/danielberg">Computer Science Student</a>,
-<a href="https://danieljberg.com">Applications Engineer Intern</a>,
-<a href="https://danieljberg.com">IT & Cybersecurity</a>
-</h1>
+<h1>Hi, I'm Daniel! 👋</h1>
+
+<h2>Computer Science Student | Applications Engineer Intern | IT & Cybersecurity</h2>
 
 <h2>🖥️ Information Technology Projects:</h2>
 
