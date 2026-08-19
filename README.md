@@ -1,10 +1,10 @@
 # Hi, I'm Daniel Berg 👋
 
-### Computer Science Student | Applications Engineer Intern | IT & Cybersecurity
+### Computer Science (Cybersecurity) Student | Applications Engineer Intern @ UoPX | Software Development, IT, Cybersecurity, Cloud & Artificial Intelligence
 
 I'm an Arizona State University Computer Science student pursuing a concentration in Cybersecurity. I currently work as an Applications Engineer Intern at the University of Phoenix, contributing to enterprise web applications using Java, JavaScript, React, AWS, Git, and Agile development practices.
 
-I am also building hands-on experience in IT support, systems administration, networking, cloud computing, troubleshooting, and cybersecurity.
+I am also building hands-on experience in IT support, systems administration, networking, cloud computing, troubleshooting, cybersecurity, and artificial intelligence tools.
 
 ---
 
@@ -31,9 +31,11 @@ I am also building hands-on experience in IT support, systems administration, ne
 
 ## 🛠️ Technical Skills
 
-**IT:** Windows • Active Directory • DNS • DHCP • TCP/IP • Microsoft 365 • PowerShell • Hardware and Software Troubleshooting
+**Information Technology:** Windows • Active Directory • DNS • DHCP • TCP/IP • Microsoft 365 • PowerShell • Hardware and Software Troubleshooting
 
 **Cloud & Infrastructure:** Microsoft Azure • AWS • Virtual Machines • VMware • Network Security Groups
+
+**Artificial Intelligence:** ChatGPT • Claude • GitHub Copilot • OpenCode Agents
 
 **Software Development:** Java • Python • JavaScript • React • HTML • CSS • SQL • REST APIs • Git • GitHub • Bitbucket
 
