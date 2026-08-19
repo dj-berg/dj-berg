@@ -2,101 +2,56 @@
 
 ### Computer Science Student | Applications Engineer Intern | IT & Cybersecurity
 
-I'm an Arizona State University Computer Science student pursuing a concentration in Cybersecurity. I currently work as an Applications Engineer Intern at the University of Phoenix, where I contribute to enterprise web applications using Java, JavaScript, React, AWS, Git, and Agile development practices.
+I'm an Arizona State University Computer Science student pursuing a concentration in Cybersecurity. I currently work as an Applications Engineer Intern at the University of Phoenix, contributing to enterprise web applications using Java, JavaScript, React, AWS, Git, and Agile development practices.
 
-Alongside my software-development experience, I am building hands-on skills in information technology, systems administration, networking, cloud computing, troubleshooting, and cybersecurity.
+I am also building hands-on experience in IT support, systems administration, networking, cloud computing, troubleshooting, and cybersecurity.
 
 ---
 
 ## 🖥️ Information Technology Projects
 
-- **Enterprise IT Infrastructure Lab** *(In Progress)*
-  - Windows Server administration
-  - Active Directory domain services
-  - DNS and DHCP configuration
-  - Group Policy management
-  - VMware virtual machines
-  - Windows client administration and troubleshooting
+- **osTicket — Help Desk Ticketing System**
+  - [osTicket: Prerequisites and Installation](YOUR-REPOSITORY-LINK)
+  - [osTicket: Post-Installation Configuration](YOUR-REPOSITORY-LINK)
+  - [osTicket: Ticket Lifecycle Examples](YOUR-REPOSITORY-LINK)
 
-- **Microsoft Azure Administration Labs** *(In Progress)*
-  - Azure virtual machines
-  - Resource groups
-  - Network Security Groups
-  - Network Watcher
-  - Network protocol inspection
-  - Cloud infrastructure configuration
-
-- **CourseCareers IT Labs** *(In Progress)*
-  - Hardware and software troubleshooting
-  - Networking fundamentals
-  - Windows administration
-  - Cloud and infrastructure concepts
-  - IT support documentation
+- **Microsoft Azure**
+  - [Configuring On-Premises Active Directory Within Azure VMs](YOUR-REPOSITORY-LINK)
+  - [Network Security Groups and Inspecting Network Protocols](YOUR-REPOSITORY-LINK)
 
 ---
 
 ## 💻 Software Engineering Projects
 
-- **University of Phoenix Feature Flag Platform** *(In Progress)*
-  - Contributed to an enterprise feature-management application
-  - Worked with Java, JavaScript, React, AWS, Git, and Bitbucket
-  - Participated in Agile development, testing, code reviews, and deployments
-
-- **Personal Portfolio Website** *(Completed)*
-  - Designed and developed a responsive portfolio website
-  - Built with HTML, CSS, and JavaScript
-  - Showcases my experience, skills, projects, and career development
-
-- **LEGO Autonomous Robot** *(Completed)*
-  - Collaborated on a team of four to design and program a robotic vehicle
-  - Used MATLAB, motion sensors, color sensors, and a mechanical claw
-  - Programmed behaviors including navigation, passenger pickup, and returning to the starting point
+- [University of Phoenix Feature Flag Platform](YOUR-REPOSITORY-LINK)
+- [Personal Portfolio Website](YOUR-REPOSITORY-LINK)
+- [LEGO Autonomous Robot](YOUR-REPOSITORY-LINK)
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Information Technology
-Windows • Active Directory • DNS • DHCP • TCP/IP • VPN • Microsoft 365 • Hardware and Software Troubleshooting • PowerShell
+**IT:** Windows • Active Directory • DNS • DHCP • TCP/IP • Microsoft 365 • PowerShell • Hardware and Software Troubleshooting
 
-### Cloud and Infrastructure
-Microsoft Azure • AWS • Virtual Machines • VMware • Network Security Groups • Network Configuration
+**Cloud & Infrastructure:** Microsoft Azure • AWS • Virtual Machines • VMware • Network Security Groups
 
-### Software Development
-Java • Python • JavaScript • React • HTML • CSS • SQL • REST APIs • Git • GitHub • Bitbucket
+**Software Development:** Java • Python • JavaScript • React • HTML • CSS • SQL • REST APIs • Git • GitHub • Bitbucket
 
-### Cybersecurity
-Network Security • IAM • Secure Authentication • Linux • Wireshark • Nmap • Encryption and Hashing • OWASP Top 10
-
-### Professional Skills
-Problem Solving • Communication • Teamwork • Collaboration • Adaptability • Documentation
-
----
-
-## 🎓 Education and Certifications
-
-- **Arizona State University**
-  - Bachelor of Science in Computer Science — Cybersecurity
-  - Expected Graduation: December 2027
-
-- **CompTIA A+** — In Progress
-
-- **CourseCareers IT Program** — In Progress
-
----
-
-## 🎯 Current Focus
-
-- Building practical IT support and systems-administration experience
-- Completing Windows Server and Active Directory projects
-- Developing networking and cloud-computing skills
-- Preparing for CompTIA A+
-- Pursuing future IT support, help desk, systems, networking, and cybersecurity opportunities
+**Cybersecurity:** Linux • Network Security • IAM • Secure Authentication • Wireshark • Nmap • Encryption and Hashing
 
 ---
 
 ## 🔗 Connect With Me
 
-- [Portfolio Website](https://danieljberg.com)
-- [LinkedIn](https://www.linkedin.com/in/danieljberg)
-- [Email](mailto:danielberg313@gmail.com)
+<p>
+  <a href="https://danieljberg.com">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="28" alt="Portfolio Website">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/danieljberg">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="28" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="28" alt="Email">
+  &nbsp; danielberg313@gmail.com
+</p>
