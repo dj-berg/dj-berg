@@ -16,7 +16,7 @@
 <h2>💻 Software Engineering Projects</h2>
 
 - [<b>University of Phoenix Feature Flag Platform</b>](YOUR-REPOSITORY-LINK)
-- [<b>Personal Portfolio Website</b>](YOUR-REPOSITORY-LINK)
+- [<b>Personal Portfolio Website</b>](https://github.com/dj-berg/personal-portfolio-website)
 - [<b>LEGO Autonomous Robot</b>](YOUR-REPOSITORY-LINK)
 
 <h2>🛠️ Technical Skills</h2>
