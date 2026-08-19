@@ -45,6 +45,65 @@ I am also building hands-on experience in IT support, systems administration, ne
 
 ## 🔗 Connect With Me
 
-- [Portfolio Website](https://danieljberg.com)
-- [LinkedIn](https://www.linkedin.com/in/danieljberg)
-- [Gmail](mailto:danielberg313@gmail.com)
+<p>
+  <a href="https://danieljberg.com">
+    <img
+      src="https://cdn.simpleicons.org/googlechrome/4285F4"
+      width="28"
+      height="28"
+      alt="Website"
+    >
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/danielberg">
+    <img
+      src="https://cdn.simpleicons.org/linkedin/0A66C2"
+      width="28"
+      height="28"
+      alt="LinkedIn"
+    >
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="YOUR-FACEBOOK-LINK">
+    <img
+      src="https://cdn.simpleicons.org/facebook/1877F2"
+      width="28"
+      height="28"
+      alt="Facebook"
+    >
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="YOUR-INSTAGRAM-LINK">
+    <img
+      src="https://cdn.simpleicons.org/instagram/E4405F"
+      width="28"
+      height="28"
+      alt="Instagram"
+    >
+  </a>
+  &nbsp;&nbsp;
+
+  <a href="https://x.com/DJBerg1306">
+    <img
+      src="https://cdn.simpleicons.org/x/FFFFFF"
+      width="28"
+      height="28"
+      alt="X"
+    >
+  </a>
+</p>
+
+<p>
+  <img
+    src="https://cdn.simpleicons.org/gmail/EA4335"
+    width="24"
+    height="24"
+    alt="Email"
+  >
+  &nbsp; danielberg313@gmail.com
+  <br>
+  ☎️ &nbsp; YOUR-PHONE-NUMBER
+</p>
