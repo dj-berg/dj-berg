@@ -2,7 +2,7 @@
 
 <h2>Computer Science Student | Applications Engineer Intern | IT & Cybersecurity</h2>
 
-<h2>🖥️ Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket — Help Desk Ticketing System</b>
   - [osTicket: Prerequisites and Installation](YOUR-REPOSITORY-LINK)
@@ -32,7 +32,7 @@
 - <b>Software Development:</b> Java, Python, JavaScript, React, HTML, CSS, SQL, REST APIs, Git, GitHub, Bitbucket
 - <b>Cybersecurity:</b> Linux, Network Security, IAM, Secure Authentication, Wireshark, Nmap, Encryption and Hashing
 
-<h2>🤳 Connect With Me:</h2>
+<h2>🤝 Connect With Me:</h2>
 
 [<img align="left" alt="Daniel Berg | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlechrome.svg" />][website]
 [<img align="left" alt="Daniel Berg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" />][linkedin]
@@ -46,7 +46,7 @@
 ☎ (602) 715-8964
 
 [website]: https://danieljberg.com
-[linkedin]: https://www.linkedin.com/in/danielberg
-[facebook]: YOUR-FACEBOOK-LINK
-[instagram]: YOUR-INSTAGRAM-LINK
+[linkedin]: https://www.linkedin.com/in/danieljberg
+[facebook]: https://www.facebook.com/profile.php?id=100089312988036
+[instagram]: https://www.instagram.com/djberg_13
 [x]: https://x.com/DJBerg1306
