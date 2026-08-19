@@ -21,7 +21,7 @@
 
 <h2>🛠️ Technical Skills</h2>
 
-- <b>IT:</b> Windows, Active Directory, DNS, DHCP, TCP/IP, Microsoft 365, PowerShell, Troubleshooting
+- <b>Information Technology:</b> Windows, Active Directory, DNS, DHCP, TCP/IP, Microsoft 365, PowerShell, Troubleshooting
 - <b>Cloud:</b> Azure, AWS, Virtual Machines, VMware, Network Security Groups
 - <b>Development:</b> Java, Python, JavaScript, React, HTML/CSS, SQL, REST APIs, Git
 - <b>Cybersecurity:</b> Linux, Network Security, IAM, Wireshark, Nmap
