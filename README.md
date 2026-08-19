@@ -2,7 +2,7 @@
 
 <p>Computer Science Student | Applications Engineer Intern | IT & Cybersecurity</p>
 
-<h2>👨‍💻 IT Projects</h2>
+<h2>👨‍💻 Information Technology Projects</h2>
 
 - <b>osTicket — Help Desk Ticketing System</b>
   - [Prerequisites & Installation](YOUR-REPOSITORY-LINK)
