@@ -34,19 +34,27 @@
 
 <h2>🤝 Connect With Me:</h2>
 
-[<img align="left" alt="Daniel Berg | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlechrome.svg" />][website]
-[<img align="left" alt="Daniel Berg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Daniel Berg | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Daniel Berg | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Daniel Berg | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" />][x]
+<a href="https://danieljberg.com" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Daniel Berg | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlechrome.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/danieljberg" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Daniel Berg | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" />
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100089312988036" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Daniel Berg | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/facebook.svg" />
+</a>
+
+<a href="https://www.instagram.com/djberg_13" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Daniel Berg | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/instagram.svg" />
+</a>
+
+<a href="https://x.com/DJBerg1306" target="_blank" rel="noopener noreferrer">
+  <img align="left" alt="Daniel Berg | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg" />
+</a>
 
 <br/><br/>
 
 📧 danielberg313@gmail.com  
 ☎ (602) 715-8964
-
-[website]: https://danieljberg.com
-[linkedin]: https://www.linkedin.com/in/danieljberg
-[facebook]: https://www.facebook.com/profile.php?id=100089312988036
-[instagram]: https://www.instagram.com/djberg_13
-[x]: https://x.com/DJBerg1306
