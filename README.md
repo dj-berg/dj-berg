@@ -43,31 +43,6 @@ I am also building hands-on experience in IT support, systems administration, ne
 
 ## 🔗 Connect With Me
 
-<p>
-  <a href="https://danieljberg.com">
-    <img
-      src="https://cdn.simpleicons.org/googlechrome/4285F4"
-      width="32"
-      height="32"
-      alt="Portfolio Website"
-    >
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/danieljberg">
-    <img
-      src="https://cdn.simpleicons.org/linkedin/0A66C2"
-      width="32"
-      height="32"
-      alt="LinkedIn"
-    >
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <img
-    src="https://cdn.simpleicons.org/gmail/EA4335"
-    width="32"
-    height="32"
-    alt="Gmail"
-  >
-  &nbsp;&nbsp;
-  danielberg313@gmail.com
-</p>
+- [Portfolio Website](https://danieljberg.com)
+- [LinkedIn](https://www.linkedin.com/in/danieljberg)
+- [Gmail](mailto:danielberg313@gmail.com)
