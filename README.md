@@ -4,7 +4,7 @@
 
 💻 Software Engineering • 🖥️ Information Technology • ☁️ Cloud • 🔐 Cybersecurity
 
-I'm a Computer Science student building hands-on experience across software engineering, IT, cloud infrastructure, and cybersecurity. I enjoy developing practical projects that combine software, infrastructure, and technology to solve real-world problems.
+I'm a Computer Science student building hands-on experience across software engineering, information technology, cloud infrastructure, and cybersecurity. I enjoy developing practical projects that combine software, infrastructure, and technology to solve real-world problems.
 
 🌐 **Portfolio:** [danieljberg.com](https://danieljberg.com)
 
@@ -30,7 +30,7 @@ Small-scale autonomous vehicle prototype programmed in MATLAB to navigate a phys
 
 ### 🌐 [Personal Portfolio Website](https://github.com/dj-berg/personal-portfolio-website)
 
-Responsive personal portfolio designed and developed from the ground up to showcase professional experience, technical projects, skills, and certifications across multiple device sizes.
+Responsive personal portfolio website designed and developed from the ground up to showcase professional experience, technical projects, skills, and certifications across multiple device sizes.
 
 **Technologies:** HTML • CSS • JavaScript • EmailJS • GitHub Pages • Custom Domain • HTTPS
 
@@ -38,7 +38,7 @@ Responsive personal portfolio designed and developed from the ground up to showc
 
 ### 💼 [Client Portfolio Website](https://github.com/dj-berg/client-portfolio-website)
 
-Responsive personal portfolio website designed and developed for a client to showcase professional experience, education, skills, projects, and career development, with responsive layouts, interactive navigation, and contact integration.
+Responsive portfolio website designed and developed for a client based on individual branding and content requirements, featuring multi-device layouts, interactive navigation, contact integration, and public deployment.
 
 **Technologies:** HTML • CSS • JavaScript • EmailJS • GitHub Pages • Custom Domain • HTTPS
 
@@ -46,26 +46,41 @@ Responsive personal portfolio website designed and developed for a client to sho
 
 ## 🖥️ Information Technology Projects
 
-### 🎫 osTicket — Help Desk Ticketing System
+I'm currently developing and documenting hands-on IT environments focused on cloud infrastructure, help desk operations, networking, and Windows administration.
 
-Hands-on help desk environment covering ticketing system deployment, configuration, user administration, support workflows, and ticket lifecycle management.
+### ☁️ Azure Cloud Networking & Security Lab — *In Progress*
 
-- [Prerequisites & Installation](YOUR-REPOSITORY-LINK)
-- [Post-Installation Configuration](YOUR-REPOSITORY-LINK)
-- [Ticket Lifecycle Examples](YOUR-REPOSITORY-LINK)
+Hands-on Microsoft Azure environment focused on cloud infrastructure, virtual machines, networking, security controls, connectivity, VPN concepts, and network troubleshooting.
 
-### ☁️ Microsoft Azure
+**Focus Areas:** Microsoft Azure • Virtual Machines • Virtual Networks • TCP/IP • Network Security Groups • VPNs • Network Troubleshooting
 
-Hands-on cloud and IT labs focused on Windows infrastructure, Active Directory, networking, security, and troubleshooting in Microsoft Azure.
+**CourseCareers Labs:** Azure Fundamentals • Azure Compute & Networking • VPNs
 
-- [Active Directory in Azure VMs](YOUR-REPOSITORY-LINK)
-- [Network Security & Protocol Analysis](YOUR-REPOSITORY-LINK)
+---
+
+### 🎫 Enterprise Help Desk & Ticketing System — *In Progress*
+
+Hands-on help desk environment using osTicket to practice common IT support workflows, including ticket management, user and agent administration, SLAs, prioritization, escalation, documentation, and issue resolution.
+
+**Focus Areas:** osTicket • Help Desk • Ticket Management • SLAs • User Support • Troubleshooting • Technical Documentation
+
+**CourseCareers Lab:** Ticketing Systems
+
+---
+
+### 🏢 Active Directory & Windows Network Services Lab — *In Progress*
+
+Windows enterprise environment focused on identity management and common network services, including Active Directory, DNS, user and group administration, network file shares, permissions, and Windows system administration.
+
+**Focus Areas:** Active Directory • Windows Server • DNS • Users & Groups • File Shares • Permissions • System Administration
+
+**CourseCareers Labs:** Active Directory • DNS • Network File Shares & Permissions
 
 ---
 
 ## 🛠️ Technical Skills
 
-**💻 Development**  
+**💻 Software Development**  
 Java • Python • JavaScript • TypeScript • React • HTML/CSS • SQL • REST APIs • Git/GitHub
 
 **🖥️ Information Technology**  
@@ -74,21 +89,22 @@ Windows • Active Directory • Microsoft 365 • TCP/IP • DNS • DHCP • P
 **☁️ Cloud & Infrastructure**  
 AWS • Microsoft Azure • AWS Lambda • DynamoDB • ECS/Fargate • Virtual Machines • VMware • OpenTofu
 
-**🔐 Cybersecurity**  
-Linux • Network Security • IAM • Wireshark • Nmap • Authentication • Vulnerability Assessment
+**🔐 Cybersecurity & Networking**  
+Linux • Network Security • IAM • Wireshark • Nmap • Authentication • Vulnerability Assessment • Network Troubleshooting
 
-**⚙️ Additional Technologies**  
-OpenFeature • Kafka/MSK • Centrifugo • WebSockets • GitHub Actions
+**⚙️ Tools & Technologies**  
+GitHub Actions • OpenFeature • Kafka/MSK • Centrifugo • WebSockets • Visual Studio Code
 
 ---
 
 ## 📚 Currently Developing
 
 - CompTIA A+
-- IT Support & Systems Administration
-- Networking & Cloud Infrastructure
-- Cybersecurity
-- Hands-on technical labs and projects
+- Hands-on IT support and troubleshooting
+- Windows administration and Active Directory
+- Networking and cloud infrastructure
+- Cybersecurity fundamentals
+- Technical documentation and IT lab development
 
 ---
 
