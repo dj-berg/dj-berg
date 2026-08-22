@@ -36,13 +36,11 @@ Responsive personal portfolio designed and developed from the ground up to showc
 
 ---
 
-### 💼 Client Portfolio Website
+### 💼 [Client Portfolio Website](https://github.com/dj-berg/client-portfolio-website)
 
-Responsive portfolio website designed and developed for a client based on individual branding and content requirements, featuring multi-device layouts, interactive navigation, contact integration, and public deployment.
+Responsive personal portfolio website designed and developed for a client to showcase professional experience, education, skills, projects, and career development, with responsive layouts, interactive navigation, and contact integration.
 
-**Technologies:** HTML • CSS • JavaScript • EmailJS • GitHub Pages • Responsive Design
-
-[View Project →](YOUR-CLIENT-PORTFOLIO-REPOSITORY-LINK)
+**Technologies:** HTML • CSS • JavaScript • EmailJS • GitHub Pages • Custom Domain • HTTPS
 
 ---
 
