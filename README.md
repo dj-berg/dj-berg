@@ -1,41 +1,108 @@
-<h1>Hi, I'm Daniel! 👋</h1>
+# Hi, I'm Daniel! 👋
 
-<p>Computer Science Student | Applications Engineer Intern | IT & Cybersecurity</p>
+### Computer Science (Cybersecurity) Student | Applications Engineer Intern
 
-<h2>👨‍💻 Information Technology Projects</h2>
+💻 Software Engineering • 🖥️ Information Technology • ☁️ Cloud • 🔐 Cybersecurity
 
-- <b>osTicket — Help Desk Ticketing System</b>
-  - [Prerequisites & Installation](YOUR-REPOSITORY-LINK)
-  - [Post-Installation Configuration](YOUR-REPOSITORY-LINK)
-  - [Ticket Lifecycle Examples](YOUR-REPOSITORY-LINK)
+I'm a Computer Science student building hands-on experience across software engineering, IT, cloud infrastructure, and cybersecurity. I enjoy developing practical projects that combine software, infrastructure, and technology to solve real-world problems.
 
-- <b>Microsoft Azure</b>
-  - [Active Directory in Azure VMs](YOUR-REPOSITORY-LINK)
-  - [Network Security & Protocol Analysis](YOUR-REPOSITORY-LINK)
+🌐 **Portfolio:** [danieljberg.com](https://danieljberg.com)
 
-<h2>💻 Software Engineering Projects</h2>
+---
 
-- [<b>Real-Time Cloud Feature Flag Platform</b>](https://github.com/dj-berg/real-time-cloud-feature-flag-platform)
-- [<b>Personal Portfolio Website</b>](https://github.com/dj-berg/personal-portfolio-website)
-- [<b>Autonomous Vehicle Navigation System</b>](https://github.com/dj-berg/autonomous-vehicle-navigation-system)
+## 🚀 Featured Projects
 
-<h2>🛠️ Technical Skills</h2>
+### 🚩 [Real-Time Cloud Feature Flag Platform](https://github.com/dj-berg/real-time-cloud-feature-flag-platform)
 
-- <b>Information Technology:</b> Windows, Active Directory, DNS, DHCP, TCP/IP, Microsoft 365, PowerShell, Troubleshooting
-- <b>Cloud:</b> Azure, AWS, Virtual Machines, VMware, Network Security Groups
-- <b>Development:</b> Java, Python, JavaScript, React, HTML/CSS, SQL, REST APIs, Git
-- <b>Cybersecurity:</b> Linux, Network Security, IAM, Wireshark, Nmap
+Real-time cloud feature flag platform for managing and delivering tenant-scoped feature flags across applications, featuring an OpenFeature-compatible TypeScript SDK, event-driven delivery, infrastructure as code, and automated CI/security validation.
 
-<h2>🤝 Connect With Me</h2>
+**Technologies:** AWS • TypeScript • OpenFeature • DynamoDB • Lambda • Kafka/MSK • Centrifugo • ECS/Fargate • OpenTofu
 
-<a href="https://danieljberg.com">
-  <img align="left" alt="Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/googlechrome.svg" />
-</a>
+---
 
-<a href="https://www.linkedin.com/in/danieljberg">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" />
-</a>
+### 🚗 [Autonomous Vehicle Navigation System](https://github.com/dj-berg/autonomous-vehicle-navigation-system)
 
-<br/><br/>
+Small-scale autonomous vehicle prototype programmed in MATLAB to navigate a physical environment using sensor-driven decision-making, obstacle detection, environmental markers, and autonomous passenger transportation.
 
-📧 danielberg313@gmail.com
+**Technologies:** MATLAB • LEGO MINDSTORMS EV3 • Sensors • Motor Control • Autonomous Navigation
+
+---
+
+### 🌐 [Personal Portfolio Website](https://github.com/dj-berg/personal-portfolio-website)
+
+Responsive personal portfolio designed and developed from the ground up to showcase professional experience, technical projects, skills, and certifications across multiple device sizes.
+
+**Technologies:** HTML • CSS • JavaScript • EmailJS • GitHub Pages • Custom Domain • HTTPS
+
+---
+
+### 💼 Client Portfolio Website
+
+Responsive portfolio website designed and developed for a client based on individual branding and content requirements, featuring multi-device layouts, interactive navigation, contact integration, and public deployment.
+
+**Technologies:** HTML • CSS • JavaScript • EmailJS • GitHub Pages • Responsive Design
+
+[View Project →](YOUR-CLIENT-PORTFOLIO-REPOSITORY-LINK)
+
+---
+
+## 🖥️ Information Technology Projects
+
+### 🎫 osTicket — Help Desk Ticketing System
+
+Hands-on help desk environment covering ticketing system deployment, configuration, user administration, support workflows, and ticket lifecycle management.
+
+- [Prerequisites & Installation](YOUR-REPOSITORY-LINK)
+- [Post-Installation Configuration](YOUR-REPOSITORY-LINK)
+- [Ticket Lifecycle Examples](YOUR-REPOSITORY-LINK)
+
+### ☁️ Microsoft Azure
+
+Hands-on cloud and IT labs focused on Windows infrastructure, Active Directory, networking, security, and troubleshooting in Microsoft Azure.
+
+- [Active Directory in Azure VMs](YOUR-REPOSITORY-LINK)
+- [Network Security & Protocol Analysis](YOUR-REPOSITORY-LINK)
+
+---
+
+## 🛠️ Technical Skills
+
+**💻 Development**  
+Java • Python • JavaScript • TypeScript • React • HTML/CSS • SQL • REST APIs • Git/GitHub
+
+**🖥️ Information Technology**  
+Windows • Active Directory • Microsoft 365 • TCP/IP • DNS • DHCP • PowerShell • Hardware & Software Troubleshooting
+
+**☁️ Cloud & Infrastructure**  
+AWS • Microsoft Azure • AWS Lambda • DynamoDB • ECS/Fargate • Virtual Machines • VMware • OpenTofu
+
+**🔐 Cybersecurity**  
+Linux • Network Security • IAM • Wireshark • Nmap • Authentication • Vulnerability Assessment
+
+**⚙️ Additional Technologies**  
+OpenFeature • Kafka/MSK • Centrifugo • WebSockets • GitHub Actions
+
+---
+
+## 📚 Currently Developing
+
+- CompTIA A+
+- IT Support & Systems Administration
+- Networking & Cloud Infrastructure
+- Cybersecurity
+- Hands-on technical labs and projects
+
+---
+
+## 🤝 Connect With Me
+
+🌐 **Portfolio:** [danieljberg.com](https://danieljberg.com)  
+💼 **LinkedIn:** [linkedin.com/in/danieljberg](https://www.linkedin.com/in/danieljberg)  
+💻 **GitHub:** [github.com/dj-berg](https://github.com/dj-berg)  
+📧 **Email:** danielberg313@gmail.com
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my GitHub!</b>
+</p>
