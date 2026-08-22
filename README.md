@@ -17,7 +17,7 @@
 
 - [<b>Real-Time Cloud Feature Flag Platform</b>](https://github.com/dj-berg/real-time-cloud-feature-flag-platform)
 - [<b>Personal Portfolio Website</b>](https://github.com/dj-berg/personal-portfolio-website)
-- [<b>Autonomous Vehicle Navigation System</b>](https://github.com/dj-berg/autonomous-lego-ev3-robot)
+- [<b>Autonomous Vehicle Navigation System</b>](https://github.com/dj-berg/autonomous-vehicle-navigation-system)
 
 <h2>🛠️ Technical Skills</h2>
 
